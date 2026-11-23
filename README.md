@@ -1,6 +1,5 @@
 # Social Media API
 
----
 ## Description:
 You are tasked with building a RESTful API for a social media platform. The API should allow users to create profiles, follow other users, create and retrieve posts, manage likes and comments, and perform basic social media actions.
 
